@@ -4,7 +4,6 @@
 - 🔭 I just graduated as a front-end developer in a 2k hour course at kenzie Academy BR
 - 🌱 I’m currently learning back-end at kenzie Academy BR
 - 💬 let's talk > crocetti@outlook.com
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
